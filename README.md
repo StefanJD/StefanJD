@@ -80,10 +80,8 @@ Coursework: Machine Learning, Computer Vision, Odoo Framework, Docker, Linux, Cl
 
 <p>
   <a href="mailto:datahanstefan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/StefanJMD"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/StefanJD"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jude-mark-datahan-9307a9363/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/stefanjmdd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StefanJMD&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanJMD&layout=compact&theme=transparent" height="150" />
-</p>
