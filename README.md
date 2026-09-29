@@ -55,9 +55,9 @@ Computer Engineering graduate with hands-on experience in **Linux, Docker, Odoo 
 
 | Project | Description | Stack |
 |---|---|---|
-| **Odoo HRIS Modules** | Custom payroll, attendance, scheduling, and leave management modules | Python, XML, PostgreSQL |
-| **Face Recognition Attendance Kiosk** | Facial-recognition kiosk integrated with Odoo attendance | Python, Odoo, Computer Vision |
-| **YOLO Object Detection** | Real-time object detection on video streams | Python, YOLO |
+| **Odoo End-to-End HRIS Modules** | Custom payroll, attendance, scheduling, recruitment, overtime management, performance management, PAN, and leave management modules | Odoo, Python, XML, PostgreSQL |
+| **Face Recognition Attendance Kiosk** | Facial-recognition kiosk integrated with Odoo attendance | Python, Odoo, JavaScript |
+| **YOLO Objects and Anomaly Detection** | Real-time object detection on video streams | Python, YOLO |
 | **Dockerized Odoo Deployment** | Self-hosted Odoo + PostgreSQL on a VPS | Docker, Linux |
 
 ---
@@ -65,7 +65,7 @@ Computer Engineering graduate with hands-on experience in **Linux, Docker, Odoo 
 ## Education
 
 **B.S. Computer Engineering** — Laguna State Polytechnic University, Siniloan Campus (2021–2025)
-Coursework: Machine Learning, Computer Vision, Odoo Framework, Docker, Linux, Cloud Server
+Coursework: Machine Learning, Computer Vision, OOP, Electronics, Electrical Engineering, Computer Engineering
 
 ## Seminars & Certifications
 
