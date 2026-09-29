@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Computer Engineering graduate with hands-on experience in **Linux, Docker, Odoo ERP, cloud servers, and PostgreSQL**, plus a background in **machine learning and computer vision**. I enjoy system deployment, troubleshooting, database management, and customizing software to fit complex business logic.
 
@@ -25,7 +25,7 @@ Computer Engineering graduate with hands-on experience in **Linux, Docker, Odoo 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Area | Tools |
 |---|---|
@@ -36,7 +36,7 @@ Computer Engineering graduate with hands-on experience in **Linux, Docker, Odoo 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Full-Stack Web Developer / Programmer — RBT Consulting Corp.**
 *July 2025 – Present*
@@ -52,7 +52,6 @@ Computer Engineering graduate with hands-on experience in **Linux, Docker, Odoo 
 
 ## Featured Projects
 
-> _Replace with pinned repos. Keep client-confidential work out of public repos; describe it generically._
 
 | Project | Description | Stack |
 |---|---|---|
@@ -63,12 +62,12 @@ Computer Engineering graduate with hands-on experience in **Linux, Docker, Odoo 
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.S. Computer Engineering** — Laguna State Polytechnic University, Siniloan Campus (2021–2025)
 Coursework: Machine Learning, Computer Vision, Odoo Framework, Docker, Linux, Cloud Server
 
-## 📜 Seminars & Certifications
+## Seminars & Certifications
 
 - DICT Region IV-A — Cyber 101, Cyber Security Tools
 - SAP — SAP Analytics Cloud and SAP Build Apps
@@ -77,7 +76,7 @@ Coursework: Machine Learning, Computer Vision, Odoo Framework, Docker, Linux, Cl
 
 ---
 
-## 📫 Connect
+## Let's Connect
 
 <p>
   <a href="mailto:datahanstefan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
